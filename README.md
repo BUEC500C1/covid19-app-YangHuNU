@@ -6,7 +6,7 @@
 - Use ```npx react-native run-ios``` to start iOS simulator
 
 ## Hello World
-![HW](./docs/HW.gif)
+![HW](./docs/HW.png)
 Ran hello world code for tutorial
 
 ## React-Native-Map
